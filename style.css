@@ -70,8 +70,8 @@ td{
 }
 
 .avc{
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    display: block;
+    text-align:center;
+width:100%;
+display:block;
+margin:auto
 }
