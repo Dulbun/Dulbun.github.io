@@ -70,6 +70,7 @@ td{
 }
 
 .avc{
-    text-align: center;
+    display: block;
+    margin: 0 auto;
 
 }
